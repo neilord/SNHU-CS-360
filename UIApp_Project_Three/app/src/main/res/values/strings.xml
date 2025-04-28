@@ -1,0 +1,30 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">UI App</string>
+    <string name="app_title">Inventory Manager</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create New Account</string>
+    <string name="data_grid_title">Inventory Items</string>
+    <string name="add_data">Add Item</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="title">Item Name</string>
+    <string name="details">Item Details</string>
+    <string name="notification_status_disabled">SMS Notifications: Disabled</string>
+    <string name="notification_status_enabled">SMS Notifications: Enabled</string>
+    <string name="enable_notifications">Enable SMS Notifications</string>
+    <string name="permission_required">SMS permission is required for notifications</string>
+    <string name="permission_granted">SMS notifications enabled</string>
+    <string name="permission_denied">SMS notifications disabled</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="invalid_login">Invalid username or password</string>
+    <string name="account_created">Account created successfully</string>
+    <string name="enter_both">Please enter both username and password</string>
+    <string name="username_exists">That username already exists</string>
+    <string name="quantity">Quantity</string>
+    <string name="add_item">Add New Item</string>
+    <string name="sms_sent">SMS notification sent</string>
+    <string name="sms_fail">SMS notification failed</string>
+</resources>
